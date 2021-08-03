@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is **Muhammad Yusuf Manshur**.
+
+I am a **Sofware Engineer** at [Widya Analytics](https://widyaanalytic.com/).
+
+I am responsible as a full stack developer and the team leader of software engineers.
+
+If you want to get to know me better, please follow my [LinkedIn](https://www.linkedin.com/in/ymanshur/) profile.
+
 <!--
 **ymanshur/ymanshur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
