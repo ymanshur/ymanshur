@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Manshur.
 
-I am a **Sofware Engineer** at [Widya Analytics](https://widyaanalytic.com/).
+I am a **Lead Sofware Engineer** at [Widya Analytics](https://widyaanalytic.com/).
 
 I am responsible as a full stack (especislly backend) developer. I am in charge of managing the team and providing advice and guidance to the engineer team and digital analysis-based products development.
 
