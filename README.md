@@ -2,7 +2,7 @@
 
 I am a **Sofware Engineer** at [Widya Analytics](https://widyaanalytic.com/).
 
-I am responsible as a full stack developer and the team leader of software engineers.
+I am responsible as a full stack (especislly backend) developer. I am in charge of managing the team and providing advice and guidance to the engineer team and digital analysis-based products development.
 
 If you want to get to know me better, please follow my [LinkedIn](https://www.linkedin.com/in/ymanshur/) profile.
 
