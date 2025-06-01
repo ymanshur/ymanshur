@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-My name is Yusuf Manshur, a **Software Engineer** with over five years of experience. I consistently leverage best practices to deliver robust and efficient software. Passionate about problem-solving, system design, software development, web, and blockchain.
+My name is Yusuf Manshur, a **Software Engineer** with over five years of experience. Passionate about problem-solving, system design, software development, web, and blockchain.
 
 Find me here [LinkedIn](https://www.linkedin.com/in/ymanshur)
 
