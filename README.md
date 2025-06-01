@@ -1,9 +1,10 @@
-### Hi! 👋 I'm Manshur.
+## Hi, there 👋
 
-I am a **Backend Engineer** with full stack experience | Building scalable systems for dashboards, ERP, and WMS
+My name is Yusuf Manshur, a **Software Engineer** with over five years of experience. I consistently leverage best practices to deliver robust and efficient software. Passionate about problem-solving, system design, software development, web, and blockchain.
 
-If you want to get to know me better, please follow my [LinkedIn](https://www.linkedin.com/in/ymanshur/) profile.
+Find me here [LinkedIn](https://www.linkedin.com/in/ymanshur)
 
+### Github statistics
 <!--
 <p align="left">
 <a href="https://github.com/ymanshur">
