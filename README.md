@@ -2,8 +2,6 @@
 
 My name is Yusuf Manshur, a **Software Engineer** with over five years of experience. Passionate about problem-solving, system design, software development, web, and blockchain.
 
-Find me here [LinkedIn](https://www.linkedin.com/in/ymanshur)
-
 ### Github statistics
 <!--
 <p align="left">
