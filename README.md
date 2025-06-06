@@ -1,6 +1,6 @@
 ## Hi, there 👋
 
-My name is Yusuf Manshur, a **Software Engineer** with over five years of experience. Passionate about problem-solving, system design, software development, web, and blockchain.
+I'm Yusuf Manshur, a software enthusiast driven by a passion for **problem-solving**. I thrive on challenges in **system design**, **web development**, and exploring the cutting edge of **blockchain** innovation.
 
 [![LeetCode user ymanshur](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fymanshur&logo=leetcode&logoColor=yellow)](https://leetcode.com/ymanshur/)
 
