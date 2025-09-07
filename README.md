@@ -4,8 +4,6 @@ I'm Yusuf Manshur, a software enthusiast driven by a passion for **problem-solvi
 
 I have written articles in those fields through my professional [stories](#recent-posts)
 
-
-
 View more in [Medium](https://medium.com/@ymanshur), [Substack](https://substack.com/@yusufmanshur869537) and [Speaker Deck](https://speakerdeck.com/ymanshur)
 
 <!--[![LeetCode user ymanshur](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fymanshur&logo=leetcode&logoColor=yellow)](https://leetcode.com/ymanshur/)-->
@@ -24,9 +22,11 @@ View more in [Medium](https://medium.com/@ymanshur), [Substack](https://substack
 
 ## Recent Posts
 
-1. [When Good Systems Go Unadopted: Lessons from Building an ERP Orchestration Layer](https://medium.com/@ymanshur/when-good-systems-go-unadopted-lessons-from-building-an-erp-orchestration-layer-2695c238daf4)
-2. [The right way to design Tour-agent integration system with long-running transactions pattern](https://medium.com/@ymanshur/the-right-way-to-design-a-clustered-ecosystem-with-the-choreography-architecture-approach-9d673e44b07b)
-3. [A Pro-Pro Series — Problem: Subarray Product Less Than K](https://medium.com/@ymanshur/a-pro-pro-series-problem-subarray-product-less-than-k-c71ce31a21aa)
+1. [Reflecting After a Layoff: A New Path and the Meaning of Professionalism](https://open.substack.com/pub/yusufmanshur869537/p/reflecting-after-a-layoff-a-new-path?r=1u2s5s&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) (Jul, 2025)
+2. [A Pro-Pro Series — Problem: Subarray Product Less Than K](https://medium.com/@ymanshur/a-pro-pro-series-problem-subarray-product-less-than-k-c71ce31a21aa) (Jun, 2025)
+3. [The right way to design Tour-agent integration system with long-running transactions pattern](https://medium.com/@ymanshur/the-right-way-to-design-a-clustered-ecosystem-with-the-choreography-architecture-approach-9d673e44b07b) (May, 2025)
+4. [When Good Systems Go Unadopted: Lessons from Building an ERP Orchestration Layer](https://medium.com/@ymanshur/when-good-systems-go-unadopted-lessons-from-building-an-erp-orchestration-layer-2695c238daf4) (May, 2025)
+   
 <!--
 **ymanshur/ymanshur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
