@@ -11,6 +11,7 @@ You can find my full portfolio here: [ymanshur.github.io/portfolio](https://yman
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ymanshur)
 [![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)](https://substack.com/@yusufmanshur869537)
 [![Speaker Deck](https://img.shields.io/badge/Speaker%20Deck-009287?logo=speakerdeck&logoColor=fff&style=for-the-badge)](https://speakerdeck.com/ymanshur)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~019d2944251dc7c651?mp_source=share)
 <!--[![LeetCode user ymanshur](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fymanshur&logo=leetcode&logoColor=yellow)](https://leetcode.com/ymanshur/)-->
 <!--[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ymanshur)-->
 <!--
