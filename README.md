@@ -1,11 +1,14 @@
 ## Hi, there 👋
 
-I'm Yusuf, a **seasoned software engineer** with over five years of experience designing and developing scalable, high-throughput backend systems in distributed 
-environments. Adept at providing **orchestration**, **integration** systems, and **dashboard monitoring**.
+I'm a **Seasoned Software Engineer** with over five years of professional experience in SaaS companies for designing and developing scalable, high-throughput backend systems in distributed environments.
 
-Consistently leverages engineering best practices to deliver robust and reactive solutions and collaborates effectively with Data, Product, Finance, and Sales teams, ensuring technical solutions align with business strategic objectives.
+Adept at providing **transaction processing** orchestration, **integration** systems, and **dashboard monitoring**.
 
-You can find my full portfolio here: [ymanshur.github.io/portfolio](https://ymanshur.github.io/portfolio/)
+Collaborates effectively with Product, Data, Finance, and Sales teams, ensuring technical solutions align with strategic objectives.
+
+Eager to broaden my expertise with a variety of teams and specific industries, e.g., Finance system, IoT, and Web3.
+
+You can over my full professional portfolio here: [ymanshur.github.io/portfolio](https://ymanshur.github.io/portfolio/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ymanshur/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ymanshur)
